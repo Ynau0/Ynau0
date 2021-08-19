@@ -1,0 +1,9 @@
+#app .navbar .home-link span:before{
+		display: inline-block;
+		content:'';
+		height: 2.2rem;
+		min-width: 2.2rem;
+		margin-right: .8rem;
+		vertical-align: top;
+		border-radius: 50%;
+		}
